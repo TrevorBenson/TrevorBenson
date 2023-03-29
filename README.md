@@ -1,6 +1,6 @@
 [![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrevorBenson)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trevor's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=TrevorBenson)](https://github.com/anuraghazra/github-readme-stats)
+[![Trevor's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Illuminatus)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TrevorBenson/TrevorBenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

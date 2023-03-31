@@ -1,5 +1,5 @@
 [![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrevorBenson)](https://github.com/anuraghazra/github-readme-stats)
-- Warning, merging accounts loses lots of GirHub contribution history! ;) 
+- Warning, merging accounts loses lots of GitHub contribution history! ;) 
 
 ------------------
 

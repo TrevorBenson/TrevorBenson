@@ -9,7 +9,7 @@
 
 -->
 
-- Warning, merging accounts loses lots of GitHub contribution history! 🤦‍♂️ 😆
+- Warning, merging accounts causes the loss of lots of your GitHub contribution history! 🤦‍♂️
 
 
 ## 🔥 Streak stats

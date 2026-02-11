@@ -13,7 +13,7 @@
 
 ## 🏆 GitHub Profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TrevorBenson&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trevor's Trophys](https://github-profile-trophy-kannan.vercel.app/?username=TrevorBenson&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 - Warning, merging of GitHub accounts causes the loss of lots of GitHub contribution history! 🤦‍♂️😅
 

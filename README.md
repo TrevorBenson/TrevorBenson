@@ -1,8 +1,9 @@
 ## 📊 GitHub Profile Stats
-<a href="#"><img alt="TrevorBensons GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=TrevorBenson&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" height="192px" /></a>
+<!-- <a href="#"><img alt="TrevorBensons GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=TrevorBenson&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" height="192px" /></a> -->
+[![Trevor's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=TrevorBenson&show_icons=true&count_private=true&include_all_commits=true&theme=transparent)
 
 ## 🔥 GitHub Streak stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=TrevorBenson&theme=transparent)](https://git.io/streak-stats)
+[![Trevor's GitHub Streak](https://streak-stats.demolab.com?user=TrevorBenson&theme=transparent)](https://git.io/streak-stats)
 
 <!--
 <a href="#"><img alt="Streak streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TrevorBenson&theme=transparent"/></a>
